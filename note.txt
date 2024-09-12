@@ -1,0 +1,17 @@
+
+****nasdaq API key
+yjN7XZx2gsJLppMN3t9B
+
+
+****alphavantage
+jhhandwerk
+AZQE5T55E3RQTFG7
+
+jhhandwerk271
+XOZN1VKRUS8P4R6Z
+
+
+      https://www.alphavantage.co/query?function=EARNINGS_CALENDAR&symbol=APD&horizon=12month&apikey=AZQE5T55E3RQTFG7
+
+
+APD
