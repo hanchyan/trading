@@ -32,7 +32,7 @@ function recordMarketCapForTickers() {
       sheet.getRange(row, nextColumn).setFormula(marketCapFormula);
       
       // Delay to allow the formula to update and fetch the value
-      Utilities.sleep(1000);
+      Utilities.sleep(3000);
       
       // Replace the formula with the actual market cap value (static)
       var marketCapValue = sheet.getRange(row, nextColumn).getValue();
