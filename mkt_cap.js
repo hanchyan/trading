@@ -41,4 +41,5 @@ function recordMarketCapForTickers() {
     }
   }
 }
+// Test 
 
